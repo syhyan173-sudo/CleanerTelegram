@@ -1,0 +1,16 @@
+# File sensitif sesi & kredensial Telegram
+sesi.txt
+.env
+.env.local
+
+# File log & backup hasil pemindaian
+*.log
+log_bersih.txt
+daftar_grup.csv
+*.csv
+
+# Dependencies Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

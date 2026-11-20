@@ -1,0 +1,23 @@
+{
+  "name": "bersih-grup-tele",
+  "version": "1.0.0",
+  "description": "Userbot Telegram modular untuk membersihkan dan keluar dari grup pada akun pribadi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "userbot",
+    "gramjs",
+    "cleaner",
+    "leave-groups"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "telegram": "^2.22.2"
+  }
+}
